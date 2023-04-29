@@ -1,0 +1,11 @@
+Loss after 0 epochs is: 0.32163939058782814
+Loss after 100 epochs is: 0.0005855049393250367
+Loss after 200 epochs is: 0.00020381457287900243
+Loss after 300 epochs is: 0.00012570327521582882
+Loss after 400 epochs is: 9.152873424982295e-05
+Loss after 500 epochs is: 7.230686856238324e-05
+Loss after 600 epochs is: 5.997631737248788e-05
+Loss after 700 epochs is: 5.139230863939827e-05
+Loss after 800 epochs is: 4.507214900378718e-05
+Loss after 900 epochs is: 4.0224788653295894e-05
+Loss after 1000 epochs is: 3.6389473940720857e-05
